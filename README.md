@@ -8,7 +8,7 @@ Prueba para desarrollador full stack NestJS
 
 1. Clona el repositorio:
    ```
-   git clone <repo-url>
+   git clone https://github.com/juan0625/PruebaCineNestJS.git
    ```
 
 2. Instala las dependencias:
